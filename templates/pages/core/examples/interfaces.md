@@ -1,6 +1,6 @@
 ----
 title: Interfaces example
-description: Interfaces example page
+description: Interfaces example
 ----
 
 # Interfaces
@@ -10,12 +10,12 @@ Interfaces allow snaps to communicate or share resources according to a protofco
 
 ##Serial port interface
 Complete implementation of the serial port interface, use this as a reference if you want to build your own interface
-[link ](https://github.com/snapcore/snapd/blob/98c8e937625ce3134cf17025d8f0eb3e1016259a/interfaces/builtin/serial_port.go)>
+[link ›](https://github.com/snapcore/snapd/blob/98c8e937625ce3134cf17025d8f0eb3e1016259a/interfaces/builtin/serial_port.go)
 
 ##Bluez interface for the Bluez snap
 Complete implementation of the bluez interface as part of the Bluez snap.
-[link ](http://bazaar.launchpad.net/~ssweeny/bluez/snappy-interface/files)>
+[link ›](http://bazaar.launchpad.net/~ssweeny/bluez/snappy-interface/files)
 
 ##Camera interface
 Simple implementation of the camera interface 
-[link ](https://github.com/snapcore/snapd/blob/98c8e937625ce3134cf17025d8f0eb3e1016259a/interfaces/builtin/camera.go)>
+[link ›](https://github.com/snapcore/snapd/blob/98c8e937625ce3134cf17025d8f0eb3e1016259a/interfaces/builtin/camera.go)
